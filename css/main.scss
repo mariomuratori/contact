@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('https://fonts.googleapis.com/css?family=Helvetica:400,700');
+
+body, html {
+    font-family: 'Montserrat';
+    margin: 0;
+    background-image: url(/images/imagen3.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #041E22;
+
+    a {
+        text-decoration: none;
+            
+    }
+    
+    h1 {
+        font-family: Helvetica;
+        position: relative;
+        top:78px;
+        left: 125px;
+        color: #707070;
+    }
+
+    h4 {
+        font-family: Helvetica;
+        position: relative;
+        top: 60px;
+        margin-left: 175px;
+        color: #707070;
+
+    }
+
+}
+
+
+header {
+    padding: 2em;
+
+    .logo {
+        color: black;
+        font-weight: bold;
+    }
+
+    .menu-btn {
+        width: 18px;
+        float: right;
+        cursor: pointer;
+    }
+}
+
+
+.cuadrado {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-attachment: fixed;
+    background-color: #f7f7f7;
+    height: 500px;
+    width: 462px;
+    border-radius: 8px 8px 8px 8px;
+    -moz-border-radius: 8px 8px 8px 8px;
+    -webkit-border-radius: 8px 8px 8px 8px;
+    border: 0px none #000000;
+    }
+
+    .foto {
+        position: relative;
+        left: 190px;
+        top: -125px;
+  /* cambia estos dos valores para definir el tamaño de tu círculo */
+  height: 100px;
+  width: 100px;
+  /* los siguientes valores son independientes del tamaño del círculo */
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 50%;
+  background-size: 100% auto;
+
+    }
+
+    .franja {
+        position: relative;
+        top: 62px;
+        height: 150px;
+        width: 100%;
+        background-color: #EFF2F2;
+      }
+
+
+    .icono1 {
+        position: absolute;
+        top: 215px;
+        left: 100px;
+        width: 240px;
+        height: 90px;
+        font-size: 25px;
+        color: #707070;
+        }
+    
+    .correo {
+        position: absolute;
+        top: 250px;
+        left: 140px;
+        width: 240px;
+        height: 90px;
+        font-size: 15px;
+        color: #707070;
+    }
+
+    .icono2 {
+        position: absolute;
+        top: 270px;
+        left: 102.5px;
+        width: 240px;
+        height: 90px;
+        font-size: 25px;
+        color: #707070;
+        }
+    
+    .instagram {
+        position: absolute;
+        top: 305px;
+        left: 140px;
+        width: 240px;
+        height: 90px;
+        font-size: 15px;
+        color: #707070;
+    }
+
+    .icono3 {
+        position: absolute;
+        top: 330px;
+        left: 107px;
+        width: 240px;
+        height: 90px;
+        font-size: 23px;
+        color: #707070;
+        }
+    
+    .face {
+        position: absolute;
+        top: 367.5px;
+        left: 145px;
+        width: 240px;
+        height: 90px;
+        font-size: 15px;
+        color: #707070;
+    }
+
+    .boton {
+        position: relative;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 180px;
+        background-attachment: fixed;
+        background-color: #338861;
+        height: 35px;
+        width: 210px;
+        border-radius: 50px 50px 50px 50px;
+        -moz-border-radius: 50px 50px 50px 50px;
+        -webkit-border-radius: 50px 50px 50px 50px;
+        border: 0px none #000000;
+    }
+
+    h5 {
+        position: relative;
+        color: #FFFFFF;
+        font-size: 18px;
+        left: 18px;
+        top: 7px;
+    }
+
+    
